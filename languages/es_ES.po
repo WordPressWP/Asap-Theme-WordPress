@@ -1,0 +1,2710 @@
+`a# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-12 12:41-0300\n"
+"PO-Revision-Date: 2021-08-05 11:16-0300\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: Acatomic <hola@acatomic.com>\n"
+"Language-Team: \n"
+
+#: footer.php:23
+msgid "Go up"
+msgstr "Subir"
+
+#: functions.php:102
+msgid "Main menu"
+msgstr "Menú principal"
+
+#: functions.php:209
+msgid "Home page sidebar"
+msgstr "Barra lateral de página de inicio"
+
+#: functions.php:218
+msgid "Post sidebar"
+msgstr "Barra lateral de entradas"
+
+#: functions.php:227
+msgid "Page sidebar"
+msgstr "Barra lateral de páginas"
+
+#: functions.php:236
+msgid "Categories / Tags sidebar"
+msgstr "Barra lateral de categorías y etiquetas"
+
+#: functions.php:245
+msgid "Footer − Social networks"
+msgstr "Pie de página - Redes sociales"
+
+#: functions.php:247
+msgid "Location for the links to your social networks."
+msgstr "Ubicación de los enlaces a tus redes sociales."
+
+#: functions.php:329
+msgid "Footer 1"
+msgstr "Pie de página 1"
+
+#: functions.php:338
+msgid "Footer 2"
+msgstr "Pie de página 2"
+
+#: functions.php:347
+msgid "Footer 3"
+msgstr "Pie de página 3"
+
+#: functions.php:356
+msgid "Footer 4"
+msgstr "Pie de página 4"
+
+#: functions.php:563
+msgid "Facebook"
+msgstr "Facebook"
+
+#: functions.php:564
+msgid "Twitter"
+msgstr "Twitter"
+
+#: functions.php:565
+msgid "Instagram"
+msgstr "Instagram"
+
+#: functions.php:566
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: functions.php:567
+msgid "Youtube"
+msgstr "Youtube"
+
+#: functions.php:640
+msgid "Bottom Description"
+msgstr "Descripción inferior"
+
+#: functions.php:655
+msgid "This description will be displayed below the list of entries."
+msgstr "Esta descripción se mostrará debajo del listado de entradas."
+
+#: inc/categories.php:33
+msgid "Featured image"
+msgstr "Imagen destacada"
+
+#: inc/categories.php:37 inc/categories.php:77
+msgid "Add Image"
+msgstr "Agregar imagen"
+
+#: inc/categories.php:38 inc/categories.php:78
+msgid "Delete Image"
+msgstr "Borrar imagen"
+
+#: inc/categories.php:66
+msgid "Featured Image"
+msgstr "Imagen destacada"
+
+#: inc/comments.php:20
+msgid "Name"
+msgstr "Nombre"
+
+#: inc/comments.php:21
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: inc/comments.php:22
+msgctxt "noun"
+msgid "Comment"
+msgstr "Comentario"
+
+#: inc/customizer.php:59
+msgid "Hold down the CTRL key to select more than one option."
+msgstr "Mantén presionada la tecla CTRL para seleccionar más de una opción."
+
+#: inc/customizer.php:138
+msgid "The text will appear on the home page below the list of entries."
+msgstr "El texto aparecerá en la página de inicio debajo del listado de entradas."
+
+#: inc/customizer.php:171
+msgid "Show in all categories"
+msgstr "Mostrar en todas las categorías"
+
+#: inc/customizer.php:205
+msgid "Asap Theme Options"
+msgstr "Asap Theme − Opciones"
+
+#: inc/customizer.php:215
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: inc/customizer.php:222
+msgid "Colors"
+msgstr "Colores"
+
+#: inc/customizer.php:229
+msgid "Fonts"
+msgstr "Tipografías"
+
+#: inc/customizer.php:236
+msgid "Listing options"
+msgstr "Opciones de listado"
+
+#: inc/customizer.php:243
+msgid "Posts options"
+msgstr "Opciones de entradas"
+
+#: inc/customizer.php:250
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: inc/customizer.php:257 inc/thickbox.php:156 inc/gutenberg/shortcodes.php:41
+msgid "Search engine"
+msgstr "Buscador"
+
+#: inc/customizer.php:264
+msgid "Table of contents"
+msgstr "Índice de contenidos"
+
+#: inc/customizer.php:271
+msgid "Social buttons"
+msgstr "Botones sociales"
+
+#: inc/customizer.php:278
+msgid "Advertising and Analytics"
+msgstr "Publicidad y Analytics"
+
+#: inc/customizer.php:285
+msgid "Cookies"
+msgstr "Cookies"
+
+#: inc/customizer.php:292
+msgid "Optimization"
+msgstr "Optimización"
+
+#: inc/customizer.php:299
+msgid "Other options"
+msgstr "Otras opciones"
+
+#: inc/customizer.php:317
+msgid "Keep the aspect ratio width / height of images"
+msgstr "Mantener la proporción de aspecto ancho / alto de las imágenes"
+
+#: inc/customizer.php:328 inc/customizer.php:549
+msgid "1"
+msgstr "1"
+
+#: inc/customizer.php:329 inc/customizer.php:550
+msgid "2"
+msgstr "2"
+
+#: inc/customizer.php:330 inc/customizer.php:551
+msgid "3"
+msgstr "3"
+
+#: inc/customizer.php:331
+msgid "4"
+msgstr "4"
+
+#: inc/customizer.php:332
+msgid "5"
+msgstr "5"
+
+#: inc/customizer.php:338
+msgid "Columns"
+msgstr "Columnas"
+
+#: inc/customizer.php:350
+msgid "Show categories"
+msgstr "Mostrar categoría"
+
+#: inc/customizer.php:361
+msgid "Show description"
+msgstr "Mostrar descripción"
+
+#: inc/customizer.php:372
+msgid "Show description in clusters"
+msgstr "Mostrar descripción en clusters"
+
+#: inc/customizer.php:383
+msgid "Number of words description"
+msgstr "Cantidad de palabras descripción"
+
+#: inc/customizer.php:398
+msgid "Read more text"
+msgstr "Texto Leer más"
+
+#: inc/customizer.php:411 inc/customizer.php:1321
+msgid "Thumbnails width"
+msgstr "Ancho thumbnails"
+
+#: inc/customizer.php:413 inc/customizer.php:431 inc/customizer.php:1323
+#: inc/customizer.php:1341
+msgid "It is necessary to regenerate all the miniatures."
+msgstr "Es necesario regenerar todas las miniaturas."
+
+#: inc/customizer.php:429 inc/customizer.php:1339
+msgid "High thumbnails"
+msgstr "Alto thumbnails"
+
+#: inc/customizer.php:447
+msgid "Logo width"
+msgstr "Ancho logo"
+
+#: inc/customizer.php:464
+msgid "Header container width"
+msgstr "Ancho contenedor cabecera"
+
+#: inc/customizer.php:481
+msgid "List container width"
+msgstr "Ancho contenedor listado"
+
+#: inc/customizer.php:498
+msgid "Posts container width"
+msgstr "Ancho contenedor entradas"
+
+#: inc/customizer.php:515
+msgid "Pages container width"
+msgstr "Ancho contenedor páginas"
+
+#: inc/customizer.php:532
+msgid "Sidebar container width"
+msgstr "Ancho barra lateral"
+
+#: inc/customizer.php:557
+msgid "Drop Down Menu columns"
+msgstr "Columnas menú desplegable"
+
+#: inc/customizer.php:569
+msgid "Activate float menu"
+msgstr "Activar menú flotante"
+
+#: inc/customizer.php:580
+msgid "Disable fixed header"
+msgstr "Desactivar cabecera fija"
+
+#: inc/customizer.php:591
+msgid "Activate full footer"
+msgstr "Activar pie de página completo"
+
+#: inc/customizer.php:602
+msgid "Hide footer logo"
+msgstr "Ocultar logo del footer"
+
+#: inc/customizer.php:675
+msgid "Headers font"
+msgstr "Fuente encabezados"
+
+#: inc/customizer.php:749
+msgid "Text font"
+msgstr "Fuente texto"
+
+#: inc/customizer.php:823
+msgid "List font"
+msgstr "Fuente listado"
+
+#: inc/customizer.php:835
+msgid "Header size H1"
+msgstr "Tamaño encabezado H1"
+
+#: inc/customizer.php:852
+msgid "Header size H2"
+msgstr "Tamaño encabezado H2"
+
+#: inc/customizer.php:869
+msgid "Header size H3"
+msgstr "Tamaño encabezado H3"
+
+#: inc/customizer.php:886
+msgid "Header size H4"
+msgstr "Tamaño encabezado H4"
+
+#: inc/customizer.php:903 inc/thickbox.php:208 inc/thickbox.php:315
+#: inc/gutenberg/shortcodes.php:76 inc/gutenberg/shortcodes.php:118
+msgid "Text size"
+msgstr "Tamaño texto"
+
+#: inc/customizer.php:920
+msgid "List size"
+msgstr "Tamaño fuente listado"
+
+#: inc/customizer.php:936
+msgid "Bold font width"
+msgstr "Ancho fuente negrita"
+
+#: inc/customizer.php:938
+msgid "Make sure the chosen font is compatible."
+msgstr "Asegúrate que la fuente elegida sea compatible."
+
+#: inc/customizer.php:954
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/customizer.php:965
+msgid "Header background"
+msgstr "Fondo cabecera"
+
+#: inc/customizer.php:976
+msgid "Header links"
+msgstr "Enlaces cabecera"
+
+#: inc/customizer.php:987 inc/thickbox.php:331 inc/thickbox.php:356
+#: inc/gutenberg/shortcodes.php:130 inc/gutenberg/shortcodes.php:181
+msgid "Text"
+msgstr "Texto"
+
+#: inc/customizer.php:998
+msgid "Links"
+msgstr "Enlaces"
+
+#: inc/customizer.php:1010
+msgid "Buttons background"
+msgstr "Fondo botones"
+
+#: inc/customizer.php:1021 inc/thickbox.php:170 inc/gutenberg/shortcodes.php:46
+msgid "Button text"
+msgstr "Texto botones"
+
+#: inc/customizer.php:1032
+msgid "Header H1"
+msgstr "Encabezado H1"
+
+#: inc/customizer.php:1043
+msgid "Headers H2"
+msgstr "Encabezado H2"
+
+#: inc/customizer.php:1053
+msgid "Breadcrumbs text"
+msgstr "Texto migas de pan"
+
+#: inc/customizer.php:1066
+msgid "Disable breadcrumbs"
+msgstr "Desactivar migas de pan"
+
+#: inc/customizer.php:1077 inc/metabox.php:161
+msgid "Hide featured image"
+msgstr "Ocultar imagen destacada"
+
+#: inc/customizer.php:1088
+msgid "Show author"
+msgstr "Mostrar autor"
+
+#: inc/customizer.php:1099
+msgid "Show author box"
+msgstr "Mostrar caja de autor"
+
+#: inc/customizer.php:1110
+msgid "Show publication date"
+msgstr "Mostrar fecha de publicación"
+
+#: inc/customizer.php:1121
+msgid "Show Previous / Next navigation"
+msgstr "Mostrar navegación Anterior / Siguiente"
+
+#: inc/customizer.php:1132
+msgid "Show labels"
+msgstr "Mostrar etiquetas"
+
+#: inc/customizer.php:1143
+msgid "Show related posts"
+msgstr "Mostrar entradas relacionadas"
+
+#: inc/customizer.php:1154
+msgid "Number of related entries"
+msgstr "Cantidad de entradas relacionadas"
+
+#: inc/customizer.php:1171 inc/customizer.php:1172
+msgid "Related by category"
+msgstr "Relacionadas por categorías"
+
+#: inc/customizer.php:1173
+msgid "Random posts"
+msgstr "Entradas aleatorias"
+
+#: inc/customizer.php:1180
+msgid "Related posts"
+msgstr "Entradas relacionadas"
+
+#: inc/customizer.php:1192 inc/customizer.php:3586
+msgid "Activate on posts"
+msgstr "Activar en entradas"
+
+#: inc/customizer.php:1204
+msgid "Show lastest posts in post sidebar"
+msgstr "Mostrar últimas entradas en barra lateral de entradas"
+
+#: inc/customizer.php:1215 inc/customizer.php:3597
+msgid "Activate on pages"
+msgstr "Activar en páginas"
+
+#: inc/customizer.php:1227
+msgid "Show lastest posts in page sidebar"
+msgstr "Mostrar últimas entradas barra lateral en páginas"
+
+#: inc/customizer.php:1238
+msgid "Activate on home page"
+msgstr "Activar en página de inicio"
+
+#: inc/customizer.php:1250
+msgid "Show lastest posts in home page sidebar"
+msgstr "Mostrar últimas entradas en barra lateral de inicio"
+
+#: inc/customizer.php:1261
+msgid "Activate on categories and tags"
+msgstr "Activar en categorías y etiquetas"
+
+#: inc/customizer.php:1273
+msgid "Show lastest posts in categoris and tags sidebar"
+msgstr "Mostrar últimas entradas en barra lateral de categorías y etiquetas"
+
+#: inc/customizer.php:1284
+msgid "Show all posts"
+msgstr "Mostrar todas las entradas"
+
+#: inc/customizer.php:1285
+msgid "Show only entries in the same category"
+msgstr "Mostrar solo entradas misma categoría"
+
+#: inc/customizer.php:1286
+msgid "Show only featured posts"
+msgstr "Mostrar solo entradas destacadas"
+
+#: inc/customizer.php:1292
+msgid "Last post options"
+msgstr "Opciones de últimas entradas"
+
+#: inc/customizer.php:1304 inc/widgets.php:100
+msgid "Number of posts"
+msgstr "Número de entradas"
+
+#: inc/customizer.php:1357
+msgid "Fixed sidebar"
+msgstr "Barra lateral fija"
+
+#: inc/customizer.php:1368
+msgid "Activate cookies"
+msgstr "Activar cookies"
+
+#: inc/customizer.php:1377
+msgid "Message"
+msgstr "Mensaje"
+
+#: inc/customizer.php:1388
+msgid "Accept text"
+msgstr "Texto de Aceptar"
+
+#: inc/customizer.php:1399
+msgid "More information text"
+msgstr "Texto de Más información"
+
+#: inc/customizer.php:1410
+msgid "Cookies page"
+msgstr "Página de cookies"
+
+#: inc/customizer.php:1423
+msgid "Header code"
+msgstr "Código en Header"
+
+#: inc/customizer.php:1438
+msgid "Activate advertising"
+msgstr "Activar publicidad"
+
+#: inc/customizer.php:1449
+msgid "Ads #0 — Header "
+msgstr "Anuncio #0 — Cabecera"
+
+#: inc/customizer.php:1451
+msgid "Shortcode: [ads id=0]"
+msgstr "Shortcode: [ads id=0]"
+
+#: inc/customizer.php:1464 inc/customizer.php:1567 inc/customizer.php:1670
+#: inc/customizer.php:1816 inc/customizer.php:1963 inc/customizer.php:2109
+#: inc/customizer.php:2255 inc/customizer.php:2402 inc/customizer.php:2549
+#: inc/customizer.php:2696 inc/customizer.php:2843 inc/customizer.php:2990
+#: inc/customizer.php:3137 inc/customizer.php:3217 inc/customizer.php:3282
+#: inc/customizer.php:3371
+msgid "Posts / Pages"
+msgstr "Entradas / Páginas"
+
+#: inc/customizer.php:1465 inc/customizer.php:1568 inc/customizer.php:1671
+msgid "Only posts"
+msgstr "Solo entradas"
+
+#: inc/customizer.php:1466 inc/customizer.php:1569 inc/customizer.php:1672
+msgid "Only pages"
+msgstr "Solo páginas"
+
+#: inc/customizer.php:1467 inc/customizer.php:1570 inc/customizer.php:1673
+#: inc/customizer.php:1819 inc/customizer.php:1840 inc/customizer.php:1966
+#: inc/customizer.php:2112 inc/customizer.php:2258 inc/customizer.php:2405
+#: inc/customizer.php:2552 inc/customizer.php:2699 inc/customizer.php:2846
+#: inc/customizer.php:2993 inc/customizer.php:3140 inc/customizer.php:3285
+#: inc/customizer.php:3374
+msgid "Use only as shortcode"
+msgstr "Usar solo como shortcode"
+
+#: inc/customizer.php:1485 inc/customizer.php:1588 inc/customizer.php:1691
+#: inc/customizer.php:1837 inc/customizer.php:1984 inc/customizer.php:2130
+#: inc/customizer.php:2276 inc/customizer.php:2423 inc/customizer.php:2570
+#: inc/customizer.php:2717 inc/customizer.php:2864 inc/customizer.php:3011
+#: inc/customizer.php:3158 inc/customizer.php:3237 inc/customizer.php:3303
+#: inc/customizer.php:3392
+msgid "All devices"
+msgstr "Todos los dispositivos"
+
+#: inc/customizer.php:1486 inc/customizer.php:1589 inc/customizer.php:1692
+#: inc/customizer.php:1838 inc/customizer.php:1985 inc/customizer.php:2131
+#: inc/customizer.php:2277 inc/customizer.php:2424 inc/customizer.php:2571
+#: inc/customizer.php:2718 inc/customizer.php:2865 inc/customizer.php:3012
+#: inc/customizer.php:3159 inc/customizer.php:3238 inc/customizer.php:3304
+#: inc/customizer.php:3393
+msgid "Desktop only"
+msgstr "Solo desktop"
+
+#: inc/customizer.php:1487 inc/customizer.php:1590 inc/customizer.php:1693
+#: inc/customizer.php:1839 inc/customizer.php:1986 inc/customizer.php:2132
+#: inc/customizer.php:2278 inc/customizer.php:2425 inc/customizer.php:2572
+#: inc/customizer.php:2719 inc/customizer.php:2866 inc/customizer.php:3013
+#: inc/customizer.php:3160 inc/customizer.php:3239 inc/customizer.php:3305
+#: inc/customizer.php:3394
+msgid "Mobile only"
+msgstr "Solo móvil"
+
+#: inc/customizer.php:1517 inc/customizer.php:1620 inc/customizer.php:1723
+#: inc/customizer.php:1870 inc/customizer.php:2016 inc/customizer.php:2162
+#: inc/customizer.php:2308 inc/customizer.php:2455 inc/customizer.php:2602
+#: inc/customizer.php:2749 inc/customizer.php:2896 inc/customizer.php:3043
+#: inc/customizer.php:3190 inc/customizer.php:3424 inc/thickbox.php:212
+#: inc/thickbox.php:319 inc/gutenberg/shortcodes.php:79 inc/gutenberg/shortcodes.php:121
+msgid "Margin"
+msgstr "Margen"
+
+#: inc/customizer.php:1529
+msgid "Ads #1 — Before content "
+msgstr "Anuncio #1 — Antes del contenido"
+
+#: inc/customizer.php:1531
+msgid "Shortcode: [ads id=1]"
+msgstr "Shortcode: [ads id=1]"
+
+#: inc/customizer.php:1544 inc/customizer.php:1647 inc/customizer.php:1794
+#: inc/customizer.php:1941 inc/customizer.php:2087 inc/customizer.php:2233
+#: inc/customizer.php:2379 inc/customizer.php:2526 inc/customizer.php:2673
+#: inc/customizer.php:2820 inc/customizer.php:2967 inc/customizer.php:3114
+#: inc/customizer.php:3348 inc/thickbox.php:202 inc/thickbox.php:309
+#: inc/gutenberg/shortcodes.php:71 inc/gutenberg/shortcodes.php:113
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer.php:1545 inc/customizer.php:1648 inc/customizer.php:1795
+#: inc/customizer.php:1942 inc/customizer.php:2088 inc/customizer.php:2234
+#: inc/customizer.php:2380 inc/customizer.php:2527 inc/customizer.php:2674
+#: inc/customizer.php:2821 inc/customizer.php:2968 inc/customizer.php:3115
+#: inc/customizer.php:3349
+msgid "Left wrapped"
+msgstr "Izquierda envuelto"
+
+#: inc/customizer.php:1546 inc/customizer.php:1649 inc/customizer.php:1796
+#: inc/customizer.php:1943 inc/customizer.php:2089 inc/customizer.php:2235
+#: inc/customizer.php:2381 inc/customizer.php:2528 inc/customizer.php:2675
+#: inc/customizer.php:2822 inc/customizer.php:2969 inc/customizer.php:3116
+#: inc/customizer.php:3350 inc/thickbox.php:203 inc/thickbox.php:310
+#: inc/gutenberg/shortcodes.php:72 inc/gutenberg/shortcodes.php:114
+msgid "Center"
+msgstr "Centrado"
+
+#: inc/customizer.php:1547 inc/customizer.php:1650 inc/customizer.php:1797
+#: inc/customizer.php:1944 inc/customizer.php:2090 inc/customizer.php:2236
+#: inc/customizer.php:2382 inc/customizer.php:2529 inc/customizer.php:2676
+#: inc/customizer.php:2823 inc/customizer.php:2970 inc/customizer.php:3117
+#: inc/customizer.php:3351 inc/thickbox.php:204 inc/thickbox.php:311
+#: inc/gutenberg/shortcodes.php:73 inc/gutenberg/shortcodes.php:115
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer.php:1548 inc/customizer.php:1651 inc/customizer.php:1798
+#: inc/customizer.php:1945 inc/customizer.php:2091 inc/customizer.php:2237
+#: inc/customizer.php:2383 inc/customizer.php:2530 inc/customizer.php:2677
+#: inc/customizer.php:2824 inc/customizer.php:2971 inc/customizer.php:3118
+#: inc/customizer.php:3352
+msgid "Right wrapped"
+msgstr "Derecha envuelto"
+
+#: inc/customizer.php:1632
+msgid "Ads #2 — After content"
+msgstr "Anuncio #2 — Después del contenido"
+
+#: inc/customizer.php:1635
+msgid "Shortcode: [ads id=2]"
+msgstr "Shortcode: [ads id=2]"
+
+#: inc/customizer.php:1735
+msgid "Ads #3 "
+msgstr "Anuncio #3"
+
+#: inc/customizer.php:1739
+msgid "Shortcode: [ads id=3]"
+msgstr "Shortcode: [ads id=3]"
+
+#: inc/customizer.php:1750 inc/customizer.php:1897 inc/customizer.php:2043
+#: inc/customizer.php:2189 inc/customizer.php:2335 inc/customizer.php:2482
+#: inc/customizer.php:2629 inc/customizer.php:2776 inc/customizer.php:2923
+#: inc/customizer.php:3070
+msgid "After paragraph 1"
+msgstr "Después del párrafo 1"
+
+#: inc/customizer.php:1751 inc/customizer.php:1898 inc/customizer.php:2044
+#: inc/customizer.php:2190 inc/customizer.php:2336 inc/customizer.php:2483
+#: inc/customizer.php:2630 inc/customizer.php:2777 inc/customizer.php:2924
+#: inc/customizer.php:3071
+msgid "After paragraph 2"
+msgstr "Después del párrafo 2"
+
+#: inc/customizer.php:1752 inc/customizer.php:1899 inc/customizer.php:2045
+#: inc/customizer.php:2191 inc/customizer.php:2337 inc/customizer.php:2484
+#: inc/customizer.php:2631 inc/customizer.php:2778 inc/customizer.php:2925
+#: inc/customizer.php:3072
+msgid "After paragraph 3"
+msgstr "Después del párrafo 3"
+
+#: inc/customizer.php:1753 inc/customizer.php:1900 inc/customizer.php:2046
+#: inc/customizer.php:2192 inc/customizer.php:2338 inc/customizer.php:2485
+#: inc/customizer.php:2632 inc/customizer.php:2779 inc/customizer.php:2926
+#: inc/customizer.php:3073
+msgid "After paragraph 4"
+msgstr "Después del párrafo 4"
+
+#: inc/customizer.php:1754 inc/customizer.php:1901 inc/customizer.php:2047
+#: inc/customizer.php:2193 inc/customizer.php:2339 inc/customizer.php:2486
+#: inc/customizer.php:2633 inc/customizer.php:2780 inc/customizer.php:2927
+#: inc/customizer.php:3074
+msgid "After paragraph 5"
+msgstr "Después del párrafo 5"
+
+#: inc/customizer.php:1755 inc/customizer.php:1902 inc/customizer.php:2048
+#: inc/customizer.php:2194 inc/customizer.php:2340 inc/customizer.php:2487
+#: inc/customizer.php:2634 inc/customizer.php:2781 inc/customizer.php:2928
+#: inc/customizer.php:3075
+msgid "After paragraph 6"
+msgstr "Después del párrafo 6"
+
+#: inc/customizer.php:1756 inc/customizer.php:1903 inc/customizer.php:2049
+#: inc/customizer.php:2195 inc/customizer.php:2341 inc/customizer.php:2488
+#: inc/customizer.php:2635 inc/customizer.php:2782 inc/customizer.php:2929
+#: inc/customizer.php:3076
+msgid "After paragraph 7"
+msgstr "Después del párrafo 7"
+
+#: inc/customizer.php:1757 inc/customizer.php:1904 inc/customizer.php:2050
+#: inc/customizer.php:2196 inc/customizer.php:2342 inc/customizer.php:2489
+#: inc/customizer.php:2636 inc/customizer.php:2783 inc/customizer.php:2930
+#: inc/customizer.php:3077
+msgid "After paragraph 8"
+msgstr "Después del párrafo 8"
+
+#: inc/customizer.php:1758 inc/customizer.php:1905 inc/customizer.php:2051
+#: inc/customizer.php:2197 inc/customizer.php:2343 inc/customizer.php:2490
+#: inc/customizer.php:2637 inc/customizer.php:2784 inc/customizer.php:2931
+#: inc/customizer.php:3078
+msgid "After paragraph 9"
+msgstr "Después del párrafo 9"
+
+#: inc/customizer.php:1759 inc/customizer.php:1906 inc/customizer.php:2052
+#: inc/customizer.php:2198 inc/customizer.php:2344 inc/customizer.php:2491
+#: inc/customizer.php:2638 inc/customizer.php:2785 inc/customizer.php:2932
+#: inc/customizer.php:3079
+msgid "After paragraph 10"
+msgstr "Después del párrafo 10"
+
+#: inc/customizer.php:1760 inc/customizer.php:1907 inc/customizer.php:2053
+#: inc/customizer.php:2199 inc/customizer.php:2345 inc/customizer.php:2492
+#: inc/customizer.php:2639 inc/customizer.php:2786 inc/customizer.php:2933
+#: inc/customizer.php:3080
+msgid "After paragraph 11"
+msgstr "Después del párrafo 11"
+
+#: inc/customizer.php:1761 inc/customizer.php:1908 inc/customizer.php:2054
+#: inc/customizer.php:2200 inc/customizer.php:2346 inc/customizer.php:2493
+#: inc/customizer.php:2640 inc/customizer.php:2787 inc/customizer.php:2934
+#: inc/customizer.php:3081
+msgid "After paragraph 12"
+msgstr "Después del párrafo 12"
+
+#: inc/customizer.php:1762 inc/customizer.php:1909 inc/customizer.php:2055
+#: inc/customizer.php:2201 inc/customizer.php:2347 inc/customizer.php:2494
+#: inc/customizer.php:2641 inc/customizer.php:2788 inc/customizer.php:2935
+#: inc/customizer.php:3082
+msgid "After paragraph 13"
+msgstr "Después del párrafo 13"
+
+#: inc/customizer.php:1763 inc/customizer.php:1910 inc/customizer.php:2056
+#: inc/customizer.php:2202 inc/customizer.php:2348 inc/customizer.php:2495
+#: inc/customizer.php:2642 inc/customizer.php:2789 inc/customizer.php:2936
+#: inc/customizer.php:3083
+msgid "After paragraph 14"
+msgstr "Después del párrafo 14"
+
+#: inc/customizer.php:1764 inc/customizer.php:1911 inc/customizer.php:2057
+#: inc/customizer.php:2203 inc/customizer.php:2349 inc/customizer.php:2496
+#: inc/customizer.php:2643 inc/customizer.php:2790 inc/customizer.php:2937
+#: inc/customizer.php:3084
+msgid "After paragraph 15"
+msgstr "Después del párrafo 15"
+
+#: inc/customizer.php:1765 inc/customizer.php:1912 inc/customizer.php:2058
+#: inc/customizer.php:2204 inc/customizer.php:2350 inc/customizer.php:2497
+#: inc/customizer.php:2644 inc/customizer.php:2791 inc/customizer.php:2938
+#: inc/customizer.php:3085
+msgid "After paragraph 16"
+msgstr "Después del párrafo 16"
+
+#: inc/customizer.php:1766 inc/customizer.php:1913 inc/customizer.php:2059
+#: inc/customizer.php:2205 inc/customizer.php:2351 inc/customizer.php:2498
+#: inc/customizer.php:2645 inc/customizer.php:2792 inc/customizer.php:2939
+#: inc/customizer.php:3086
+msgid "After paragraph 17"
+msgstr "Después del párrafo 17"
+
+#: inc/customizer.php:1767 inc/customizer.php:1914 inc/customizer.php:2060
+#: inc/customizer.php:2206 inc/customizer.php:2352 inc/customizer.php:2499
+#: inc/customizer.php:2646 inc/customizer.php:2793 inc/customizer.php:2940
+#: inc/customizer.php:3087
+msgid "After paragraph 18"
+msgstr "Después del párrafo 18"
+
+#: inc/customizer.php:1768 inc/customizer.php:1915 inc/customizer.php:2061
+#: inc/customizer.php:2207 inc/customizer.php:2353 inc/customizer.php:2500
+#: inc/customizer.php:2647 inc/customizer.php:2794 inc/customizer.php:2941
+#: inc/customizer.php:3088
+msgid "After paragraph 19"
+msgstr "Después del párrafo 19"
+
+#: inc/customizer.php:1769 inc/customizer.php:1916 inc/customizer.php:2062
+#: inc/customizer.php:2208 inc/customizer.php:2354 inc/customizer.php:2501
+#: inc/customizer.php:2648 inc/customizer.php:2795 inc/customizer.php:2942
+#: inc/customizer.php:3089
+msgid "After paragraph 20"
+msgstr "Después del párrafo 20"
+
+#: inc/customizer.php:1770 inc/customizer.php:1917 inc/customizer.php:2063
+#: inc/customizer.php:2209 inc/customizer.php:2355 inc/customizer.php:2502
+#: inc/customizer.php:2649 inc/customizer.php:2796 inc/customizer.php:2943
+#: inc/customizer.php:3090
+msgid "After first H2"
+msgstr "Después del primer H2"
+
+#: inc/customizer.php:1771 inc/customizer.php:1918 inc/customizer.php:2064
+#: inc/customizer.php:2210 inc/customizer.php:2356 inc/customizer.php:2503
+#: inc/customizer.php:2650 inc/customizer.php:2797 inc/customizer.php:2944
+#: inc/customizer.php:3091
+msgid "After second H2"
+msgstr "Después del segundo H2"
+
+#: inc/customizer.php:1772 inc/customizer.php:1919 inc/customizer.php:2065
+#: inc/customizer.php:2211 inc/customizer.php:2357 inc/customizer.php:2504
+#: inc/customizer.php:2651 inc/customizer.php:2798 inc/customizer.php:2945
+#: inc/customizer.php:3092
+msgid "After third H2"
+msgstr "Después del tercer H2"
+
+#: inc/customizer.php:1773 inc/customizer.php:1920 inc/customizer.php:2066
+#: inc/customizer.php:2212 inc/customizer.php:2358 inc/customizer.php:2505
+#: inc/customizer.php:2652 inc/customizer.php:2799 inc/customizer.php:2946
+#: inc/customizer.php:3093
+msgid "After fourth H2"
+msgstr "Después del cuarto H2"
+
+#: inc/customizer.php:1774 inc/customizer.php:1921 inc/customizer.php:2067
+#: inc/customizer.php:2213 inc/customizer.php:2359 inc/customizer.php:2506
+#: inc/customizer.php:2653 inc/customizer.php:2800 inc/customizer.php:2947
+#: inc/customizer.php:3094
+msgid "After fifth H2"
+msgstr "Después del quinto H2"
+
+#: inc/customizer.php:1775 inc/customizer.php:1922 inc/customizer.php:2068
+#: inc/customizer.php:2214 inc/customizer.php:2360 inc/customizer.php:2507
+#: inc/customizer.php:2654 inc/customizer.php:2801 inc/customizer.php:2948
+#: inc/customizer.php:3095
+msgid "After sixth H2"
+msgstr "Después del sexto H2"
+
+#: inc/customizer.php:1776 inc/customizer.php:1923 inc/customizer.php:2069
+#: inc/customizer.php:2215 inc/customizer.php:2361 inc/customizer.php:2508
+#: inc/customizer.php:2655 inc/customizer.php:2802 inc/customizer.php:2949
+#: inc/customizer.php:3096
+msgid "After seventh H2"
+msgstr "Después del séptimo H2"
+
+#: inc/customizer.php:1817 inc/customizer.php:1964 inc/customizer.php:2110
+#: inc/customizer.php:2256 inc/customizer.php:2403 inc/customizer.php:2550
+#: inc/customizer.php:2697 inc/customizer.php:2844 inc/customizer.php:2991
+#: inc/customizer.php:3138 inc/customizer.php:3218 inc/customizer.php:3283
+#: inc/customizer.php:3372 inc/customizer.php:3855
+msgid "only posts"
+msgstr "Solo entradas"
+
+#: inc/customizer.php:1818 inc/customizer.php:1965 inc/customizer.php:2111
+#: inc/customizer.php:2257 inc/customizer.php:2404 inc/customizer.php:2551
+#: inc/customizer.php:2698 inc/customizer.php:2845 inc/customizer.php:2992
+#: inc/customizer.php:3139 inc/customizer.php:3219 inc/customizer.php:3284
+#: inc/customizer.php:3373 inc/customizer.php:3856
+msgid "only pages"
+msgstr "Solo páginas"
+
+#: inc/customizer.php:1882
+msgid "Ads #4 "
+msgstr "Anuncio #4"
+
+#: inc/customizer.php:1885
+msgid "Shortcode: [ads id=4]"
+msgstr "Shortcode: [ads id=4]"
+
+#: inc/customizer.php:2028
+msgid "Ads #5 "
+msgstr "Anuncio #5"
+
+#: inc/customizer.php:2031
+msgid "Shortcode: [ads id=5]"
+msgstr "Shortcode: [ads id=5]"
+
+#: inc/customizer.php:2174
+msgid "Ads #6 "
+msgstr "Anuncio #6"
+
+#: inc/customizer.php:2177
+msgid "Shortcode: [ads id=6]"
+msgstr "Shortcode: [ads id=6]"
+
+#: inc/customizer.php:2320
+msgid "Ads #7 "
+msgstr "Anuncio #7"
+
+#: inc/customizer.php:2323
+msgid "Shortcode: [ads id=7]"
+msgstr "Shortcode: [ads id=7]"
+
+#: inc/customizer.php:2467
+msgid "Ads #8 "
+msgstr "Anuncio #8"
+
+#: inc/customizer.php:2470
+msgid "Shortcode: [ads id=8]"
+msgstr "Shortcode: [ads id=8]"
+
+#: inc/customizer.php:2614
+msgid "Ads #9 "
+msgstr "Anuncio #9"
+
+#: inc/customizer.php:2617
+msgid "Shortcode: [ads id=9]"
+msgstr "Shortcode: [ads id=9]"
+
+#: inc/customizer.php:2761
+msgid "Ads #10 "
+msgstr "Anuncio #10"
+
+#: inc/customizer.php:2764
+msgid "Shortcode: [ads id=10]"
+msgstr "Shortcode: [ads id=10]"
+
+#: inc/customizer.php:2908
+msgid "Ads #11 "
+msgstr "Anuncio #11"
+
+#: inc/customizer.php:2911
+msgid "Shortcode: [ads id=11]"
+msgstr "Shortcode: [ads id=11]"
+
+#: inc/customizer.php:3055
+msgid "Ads #12 "
+msgstr "Anuncio #12"
+
+#: inc/customizer.php:3058
+msgid "Shortcode: [ads id=12]"
+msgstr "Shortcode: [ads id=12]"
+
+#: inc/customizer.php:3202
+msgid "Ads #13 — Sidebar — Before content"
+msgstr "Anuncio #13 — Barra lateral — Antes del contenido"
+
+#: inc/customizer.php:3205
+msgid "Shortcode: [ads id=13]"
+msgstr "Shortcode: [ads id=13]"
+
+#: inc/customizer.php:3267
+msgid "Ads #14 — Sidebar — After content"
+msgstr "Anuncio #14 — Barra lateral — Después del contenido"
+
+#: inc/customizer.php:3270
+msgid "Shortcode: [ads id=14]"
+msgstr "Shortcode: [ads id=14]"
+
+#: inc/customizer.php:3333
+msgid "Ads #15 — Middle of the content"
+msgstr "Anuncio #15 — Mitad del contenido"
+
+#: inc/customizer.php:3336
+msgid "Shortcode: [ads id=15]"
+msgstr "Shortcode: [ads id=15]"
+
+#: inc/customizer.php:3442
+msgid "Enable jQuery in footer"
+msgstr "Mover jQuery al pie de página"
+
+#: inc/customizer.php:3448
+msgid "Enable Javascript lazy loading"
+msgstr "Activar carga diferida de Javascript"
+
+#: inc/customizer.php:3460
+msgid "Optimize HTML code"
+msgstr "Optimizar código HTML"
+
+#: inc/customizer.php:3471
+msgid "Optimize Google Fonts"
+msgstr "Optimizar Google Fonts"
+
+#: inc/customizer.php:3483
+msgid "Optimize Google Analytics"
+msgstr "Optimizar Google Analytics"
+
+#: inc/customizer.php:3495
+msgid "Optimize Google Tag Manager"
+msgstr "Optimizar Google Tag Manager"
+
+#: inc/customizer.php:3508
+msgid "Disable embedded content"
+msgstr "Desactivar contenido incrustado"
+
+#: inc/customizer.php:3519
+msgid "Disable Google Fonts"
+msgstr "Desactivar Google Fonts"
+
+#: inc/customizer.php:3530
+msgid "Activate Classic Editor"
+msgstr "Activar Editor Clásico"
+
+#: inc/customizer.php:3541
+msgid "Activate Awesome library"
+msgstr "Activar librería Awesome"
+
+#: inc/customizer.php:3552
+msgid "Hide featured image on pages"
+msgstr "Ocultar imagen destacada en páginas"
+
+#: inc/customizer.php:3563
+msgid "Enable video Schema"
+msgstr "Video"
+
+#: inc/customizer.php:3572
+msgid "Youtube API Key"
+msgstr "Youtube API Key"
+
+#: inc/customizer.php:3574
+msgid "It is required to enable video Schema."
+msgstr "Es necesaria para habilitar datos estructurados de video."
+
+#: inc/customizer.php:3608
+msgid "Activate on categories"
+msgstr "Activar en categorías"
+
+#: inc/customizer.php:3619
+msgid "Allow user to change visibility"
+msgstr "Permitir al usuario cambiar la visibilidad"
+
+#: inc/customizer.php:3630
+msgid "Hide initially"
+msgstr "Ocultar inicialmente"
+
+#: inc/customizer.php:3641
+msgid "Numbered list"
+msgstr "Lista numerada"
+
+#: inc/customizer.php:3642
+msgid "Bulleted list"
+msgstr "Lista con viñeta"
+
+#: inc/customizer.php:3643
+msgid "No numbers or bullet point"
+msgstr "Sin números ni viñeta"
+
+#: inc/customizer.php:3649
+msgid "Format"
+msgstr "Formato"
+
+#: inc/customizer.php:3661
+msgid "Show H2"
+msgstr "Mostrar H2"
+
+#: inc/customizer.php:3662
+msgid "Show H2 / H3"
+msgstr "Mostrar H2 y H3"
+
+#: inc/customizer.php:3668
+msgid "Headers"
+msgstr "Encabezados"
+
+#: inc/customizer.php:3679 inc/widgets.php:95 inc/widgets.php:236
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer.php:3692
+msgid "Show search engine at home"
+msgstr "Mostrar buscador en inicio"
+
+#: inc/customizer.php:3703
+msgid "Show search engine at categories"
+msgstr "Mostrar buscador en categorías"
+
+#: inc/customizer.php:3714
+msgid "Show search engine in responsive menu"
+msgstr "Mostrar buscador en menú responsive"
+
+#: inc/customizer.php:3725
+msgid "Show search engine in desktop menu"
+msgstr "Mostrar buscador en menú desktop"
+
+#: inc/customizer.php:3734
+msgid "Search engine text"
+msgstr "Texto buscador"
+
+#: inc/customizer.php:3736
+msgid "The text will appear in all search engines."
+msgstr "El texto aparecerá en todos los buscadores."
+
+#: inc/customizer.php:3748
+msgid "Search engine width"
+msgstr "Ancho buscador"
+
+#: inc/customizer.php:3749
+msgid "It will only be used in the desktop menu."
+msgstr "Solo se utilizará en menú desktop."
+
+#: inc/customizer.php:3766
+msgid "Distance"
+msgstr "Margen izquierdo"
+
+#: inc/customizer.php:3767
+msgid "Left margin of the search engine. It will only be used in the desktop menu."
+msgstr "Solo se utilizará en menú desktop."
+
+#: inc/customizer.php:3783
+msgid "Home text − Before"
+msgstr "Texto en inicio − Antes listado de entradas"
+
+#: 
+msgid "Home text − After"
+msgstr "Texto en inicio − Después listado de entradas"
+
+#: inc/customizer.php:3807
+msgid "Before content"
+msgstr "Antes del contenido"
+
+#: inc/customizer.php:3818
+msgid "After content"
+msgstr "Después del contenido"
+
+#: inc/customizer.php:3829
+msgid "Bottom mobile only"
+msgstr "Inferior solo móviles"
+
+#: inc/customizer.php:3840
+msgid "Social networks"
+msgstr "Redes sociales"
+
+#: inc/customizer.php:3854
+msgid "All"
+msgstr "Todas"
+
+#: inc/customizer.php:3862
+msgid "Post type"
+msgstr "Tipo de plantilla"
+
+#: inc/export-import.php:37
+msgid "Choose a file to import."
+msgstr "Elija un archivo para importar."
+
+#: inc/export-import.php:54
+msgid "Import and export"
+msgstr "Importar y exportar"
+
+#: inc/export-import.php:168
+msgid "An error occurred importing the configuration. Please try again."
+msgstr "Se produjo un error al importar la configuración. Inténtalo de nuevo."
+
+#: inc/export-import.php:183 inc/export-import.php:188
+msgid ""
+"An error occurred importing the configuration. Check that you have uploaded a customizer "
+"export file."
+msgstr ""
+"Se produjo un error al importar la configuración. Compruebe que haya subido un archivo "
+"de exportación del personalizador."
+
+#: inc/export-import.php:193
+msgid ""
+"An error occurred importing the configuration. The configuration you uploaded is not for "
+"the current theme."
+msgstr ""
+"Se produjo un error al importar la configuración. La configuración que cargó no es para "
+"el tema actual."
+
+#: inc/metabox.php:14 inc/metabox.php:158
+msgid "Featured post"
+msgstr "Entrada destacada"
+
+#: inc/metabox.php:24 inc/metabox.php:288 inc/metabox.php:387
+msgid "Hide featured post"
+msgstr "Ocultar imagen destacada"
+
+#: inc/metabox.php:34 inc/metabox.php:306
+msgid "Hide sidebar"
+msgstr "Desactivar barra lateral"
+
+#: inc/metabox.php:44 inc/metabox.php:185 inc/metabox.php:217
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: inc/metabox.php:54 inc/metabox.php:169
+msgid "Disable related posts"
+msgstr "Desactivar entradas relacionadas"
+
+#: inc/metabox.php:64
+msgid "Disable ads"
+msgstr "Desactivar anuncios"
+
+#: inc/metabox.php:74 inc/metabox.php:177 inc/metabox.php:316 inc/metabox.php:399
+msgid "Disable H1"
+msgstr "Desactivar H1"
+
+#: inc/metabox.php:84
+msgid "Breadcrumb text"
+msgstr "Texto migas de pan"
+
+#: inc/metabox.php:112
+msgid "ASAP − Post Options"
+msgstr "ASAP − Opciones de entrada"
+
+#: inc/metabox.php:165
+msgid "Disable sidebar"
+msgstr "Desactivar barra lateral"
+
+#: inc/metabox.php:173 inc/metabox.php:297 inc/metabox.php:391
+msgid "Disable Ads"
+msgstr "Desactivar anuncios"
+
+#: inc/metabox.php:181
+msgid "Breadcrumb Text"
+msgstr "Texto migas de pan"
+
+#: inc/metabox.php:344
+msgid "ASAP − Page Options"
+msgstr "ASAP − Opciones de página"
+
+#: inc/metabox.php:395
+msgid "Disable Sidebar"
+msgstr "Desactivar barra lateral"
+
+#: inc/shortcodes.php:481 template-parts/header/content-search.php:11
+#: template-parts/header/content-search.php:21 template-parts/menu/content-menu.php:5
+#: template-parts/menu/content-menu.php:39 template-parts/menu/content-search.php:5
+#: template-parts/menu/content-search.php:17
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/thickbox.php:18
+msgid "Add Cluster"
+msgstr "Añadir categorización"
+
+#: inc/thickbox.php:37
+msgid "Clusters"
+msgstr "Categorizaciones"
+
+#: inc/thickbox.php:38
+msgid "Posts"
+msgstr "Entradas"
+
+#: inc/thickbox.php:39
+msgid "Pages"
+msgstr "Páginas"
+
+#: inc/thickbox.php:40
+msgid "Categories"
+msgstr "Categorías"
+
+#: inc/thickbox.php:41
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: inc/thickbox.php:46
+msgid "Select an option"
+msgstr "Selecciona una opción"
+
+#: inc/thickbox.php:47
+msgid ""
+"You can create categorizations of posts, pages, categories, and tags. Select an option "
+"from the left menu."
+msgstr ""
+"Puede crear categorizaciones de entradas, páginas, categorías y etiquetas. Selecciona "
+"una opción del menú izquierdo."
+
+#: inc/thickbox.php:48
+msgid ""
+"The <strong> [categories] </strong> shortcode is used to insert category clusters "
+"themselves, not category entries. You can exclude categories with the variable exclude, "
+"for example [categories exclude = \"1\"]"
+msgstr ""
+"El shortcode <strong>[categories]</strong> se utiliza para insertar grupos de categorías "
+"en sí mismos, no entradas de categorías. Puedes excluir categorías con la variable "
+"exclude, por ejemplo [categories exclude = \"1\"]"
+
+#: inc/thickbox.php:96
+msgid "Order"
+msgstr "Orden"
+
+#: inc/thickbox.php:98
+msgid "Most recent first"
+msgstr "Más recientes primero"
+
+#: inc/thickbox.php:99
+msgid "Oldest first"
+msgstr "Más antiguos primero"
+
+#: inc/thickbox.php:102
+msgid "Post limit"
+msgstr "Límite de post"
+
+#: inc/thickbox.php:103
+msgid "Default: 12"
+msgstr "Por defecto: 12"
+
+#: inc/thickbox.php:105
+msgid "Number of columns"
+msgstr "Número de columnas"
+
+#: inc/thickbox.php:106
+msgid "Default: 3"
+msgstr "Por defecto: 3"
+
+#: inc/thickbox.php:109 inc/thickbox.php:238 inc/thickbox.php:289 inc/thickbox.php:337
+#: inc/thickbox.php:362 inc/thickbox.php:378
+msgid "Insert shortcode"
+msgstr "Insertar shortcode"
+
+#: inc/thickbox.php:128
+msgid "Add shortcode"
+msgstr "Añadir shortcode"
+
+#: inc/thickbox.php:151
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: inc/thickbox.php:152 inc/gutenberg/shortcodes.php:37
+msgid "Buttons"
+msgstr "Botones"
+
+#: inc/thickbox.php:153 inc/gutenberg/shortcodes.php:38
+msgid "Note"
+msgstr "Nota"
+
+#: inc/thickbox.php:154 inc/gutenberg/shortcodes.php:39
+msgid "Comparative"
+msgstr "Comparativa"
+
+#: inc/thickbox.php:155 inc/gutenberg/shortcodes.php:40
+msgid "Highlight text"
+msgstr "Texto resaltado"
+
+#: inc/thickbox.php:163
+msgid "Please select an option"
+msgstr "Selecciona una opción"
+
+#: inc/thickbox.php:164
+msgid "Select an option from the left menu to add a custom shortcode."
+msgstr "Selecciona una opción del menú izquierdo para agregar un shortcode personalizado."
+
+#: inc/thickbox.php:170 inc/thickbox.php:174 inc/thickbox.php:273 inc/thickbox.php:282
+#: inc/thickbox.php:331 inc/thickbox.php:356 inc/gutenberg/shortcodes.php:46
+#: inc/gutenberg/shortcodes.php:49 inc/gutenberg/shortcodes.php:130
+#: inc/gutenberg/shortcodes.php:159 inc/gutenberg/shortcodes.php:165
+#: inc/gutenberg/shortcodes.php:181
+msgid "Required"
+msgstr "Requerido"
+
+#: inc/thickbox.php:171 inc/gutenberg/shortcodes.php:47
+msgid "Ex: Download now"
+msgstr "Ej: Descargar ahora"
+
+#: inc/thickbox.php:174 inc/gutenberg/shortcodes.php:49
+msgid "Link"
+msgstr "Enlace"
+
+#: inc/thickbox.php:175 inc/gutenberg/shortcodes.php:50
+msgid "Ex: https://demo.asaptheme.com"
+msgstr "Ej: https://demo.asaptheme.com"
+
+#: inc/thickbox.php:178 inc/gutenberg/shortcodes.php:52
+msgid "Rel Attribute"
+msgstr "Atributo Rel"
+
+#: inc/thickbox.php:179 inc/gutenberg/shortcodes.php:53
+msgid "Ex:  nofollow noopener"
+msgstr "Ej: nofollow noopener"
+
+#: inc/thickbox.php:183 inc/gutenberg/shortcodes.php:56
+msgid "Target"
+msgstr "Destino"
+
+#: inc/thickbox.php:185 inc/gutenberg/shortcodes.php:58
+msgid "Open in the same tab"
+msgstr "Abrir en la misma pestaña"
+
+#: inc/thickbox.php:186 inc/gutenberg/shortcodes.php:59
+msgid "Open in a new tab"
+msgstr "Abrir en una nueva pestaña"
+
+#: inc/thickbox.php:191 inc/thickbox.php:299 inc/thickbox.php:348
+#: inc/gutenberg/shortcodes.php:62 inc/gutenberg/shortcodes.php:105
+#: inc/gutenberg/shortcodes.php:175
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: inc/thickbox.php:196 inc/thickbox.php:303 inc/thickbox.php:352
+#: inc/gutenberg/shortcodes.php:65 inc/gutenberg/shortcodes.php:108
+#: inc/gutenberg/shortcodes.php:178
+msgid "Text color"
+msgstr "Color de texto"
+
+#: inc/thickbox.php:200 inc/gutenberg/shortcodes.php:69
+msgid "Position"
+msgstr "Posición"
+
+#: inc/thickbox.php:212 inc/thickbox.php:216 inc/thickbox.php:221 inc/thickbox.php:315
+#: inc/thickbox.php:319 inc/thickbox.php:323 inc/thickbox.php:327
+#: inc/gutenberg/shortcodes.php:79 inc/gutenberg/shortcodes.php:82
+#: inc/gutenberg/shortcodes.php:85 inc/gutenberg/shortcodes.php:118
+#: inc/gutenberg/shortcodes.php:121 inc/gutenberg/shortcodes.php:124
+#: inc/gutenberg/shortcodes.php:127
+msgid "(In pixels)"
+msgstr "(En píxeles)"
+
+#: inc/thickbox.php:216 inc/thickbox.php:323 inc/gutenberg/shortcodes.php:82
+#: inc/gutenberg/shortcodes.php:124
+msgid "Padding"
+msgstr "Margen interior"
+
+#: inc/thickbox.php:221 inc/thickbox.php:327 inc/gutenberg/shortcodes.php:85
+#: inc/gutenberg/shortcodes.php:127
+msgid "Border radius"
+msgstr "Radio borde"
+
+#: inc/thickbox.php:225 inc/gutenberg/shortcodes.php:88
+msgid "Icon"
+msgstr "Ícono"
+
+#: inc/thickbox.php:226 inc/gutenberg/shortcodes.php:89
+msgid "Ex: fa-download"
+msgstr "Ej: fa-download"
+
+#: inc/thickbox.php:229 inc/gutenberg/shortcodes.php:92
+msgid "Show container border"
+msgstr "Mostrar borde contenedor"
+
+#: inc/thickbox.php:231 inc/thickbox.php:251 inc/gutenberg/shortcodes.php:94
+#: inc/gutenberg/shortcodes.php:143
+msgid "No"
+msgstr "No"
+
+#: inc/thickbox.php:232 inc/thickbox.php:250 inc/gutenberg/shortcodes.php:95
+#: inc/gutenberg/shortcodes.php:142
+msgid "Yes"
+msgstr "Sí"
+
+#: inc/thickbox.php:248 inc/gutenberg/shortcodes.php:140
+msgid "Show titles"
+msgstr "Mostrar títulos"
+
+#: inc/thickbox.php:257 inc/gutenberg/shortcodes.php:147
+msgid "Title text color"
+msgstr "Color de texto título"
+
+#: inc/thickbox.php:261 inc/gutenberg/shortcodes.php:150
+msgid "Background title Advantages"
+msgstr "Color de fondo ventajas"
+
+#: inc/thickbox.php:265 inc/gutenberg/shortcodes.php:153
+msgid "Background title Disadvantages"
+msgstr "Color de fondo desventajas"
+
+#: inc/thickbox.php:269 inc/gutenberg/shortcodes.php:156
+msgid "Advantages Title"
+msgstr "Título ventajas"
+
+#: inc/thickbox.php:270
+msgid "Ex: Advantages"
+msgstr "Ej: Ventajas"
+
+#: inc/thickbox.php:273 inc/gutenberg/shortcodes.php:159
+msgid "Advantages"
+msgstr "Ventajas"
+
+#: inc/thickbox.php:274 inc/gutenberg/shortcodes.php:160
+msgid "Advantage 1&#10;Advantage 2&#10;Advantage 3&#10;"
+msgstr "Ventaja 1&#10;Ventaja 2&#10;Ventaja 3&#10;"
+
+#: inc/thickbox.php:278 inc/gutenberg/shortcodes.php:162
+msgid "Disadvantages Title"
+msgstr "Título desventajas"
+
+#: inc/thickbox.php:279
+msgid "Ex: Disadvantages"
+msgstr "Ej: Desventajas"
+
+#: inc/thickbox.php:282 inc/gutenberg/shortcodes.php:165
+msgid "Disadvantages"
+msgstr "Desventajas"
+
+#: inc/thickbox.php:283 inc/gutenberg/shortcodes.php:166
+msgid "Disadvantage 1&#10;Disadvantage 2&#10;Disadvantage 3&#10;"
+msgstr "Desventaja 1&#10;Desventaja 2&#10;Desventaja 3&#10;"
+
+#: inc/thickbox.php:307 inc/gutenberg/shortcodes.php:111
+msgid "Text alignment"
+msgstr "Alineación texto"
+
+#: inc/thickbox.php:373 inc/gutenberg/shortcodes.php:193
+msgid ""
+"With this shortcode you can insert a search engine in the middle of any post or page."
+msgstr ""
+"Con este shortcode puedes insertar un buscador en medio de cualquier entrada o página. "
+
+#: inc/toc.php:83
+msgid "Index"
+msgstr "Índice"
+
+#: inc/widgets.php:20
+msgid "A list of the posts with the most views."
+msgstr "Un listado con los post más vistos."
+
+#: inc/widgets.php:23
+msgid "ASAP − Popular posts"
+msgstr "ASAP − Entradas populares"
+
+#: inc/widgets.php:33
+msgid "Most viewed posts"
+msgstr "Entradas más vistas"
+
+#: inc/widgets.php:121
+msgid "Links to your social networks."
+msgstr "Enlaces a tus redes sociales."
+
+#: inc/widgets.php:124
+msgid "ASAP − Social networks"
+msgstr "ASAP − Redes sociales"
+
+#: inc/widgets.php:133
+msgid "Follow us"
+msgstr "Síguenos"
+
+#: inc/widgets.php:241
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: inc/widgets.php:246
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: inc/widgets.php:251
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: inc/widgets.php:256
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: inc/widgets.php:261
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: inc/widgets.php:266
+msgid "Telegram URL"
+msgstr "Telegram URL"
+
+#: inc/widgets.php:271
+msgid "TikTok URL"
+msgstr "TikTok URL"
+
+#: inc/widgets.php:276
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: inc/ei/control.php:10 inc/ei/control.php:15
+msgid "Export"
+msgstr "Exportar"
+
+#: inc/ei/control.php:13
+msgid "Click to export the customization settings for this theme."
+msgstr "Haz clic para exportar la configuración de personalización de este tema."
+
+#: inc/ei/control.php:20 inc/ei/control.php:30
+msgid "Import"
+msgstr "Importar"
+
+#: inc/ei/control.php:23
+msgid "Upload a file to import the customization settings for this theme."
+msgstr "Carga un archivo para importar la configuración de personalización para este tema."
+
+#: inc/ei/control.php:29
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: inc/gutenberg/clusters.php:47
+msgid "ASAP"
+msgstr "ASAP"
+
+#: inc/gutenberg/shortcodes.php:100 inc/gutenberg/shortcodes.php:135
+#: inc/gutenberg/shortcodes.php:170 inc/gutenberg/shortcodes.php:186
+#: inc/gutenberg/shortcodes.php:198
+msgid "Create shortcode"
+msgstr "Crear shortcode"
+
+#: template-parts/content/content-loop-sidebar.php:19
+#: template-parts/content/content-loop.php:27
+msgid "Featured"
+msgstr "Destacado"
+
+#: template-parts/none/content-none.php:3 template-parts/none/content-none.php:21
+msgid "Nothing found"
+msgstr "Nada encontrado"
+
+#: template-parts/none/content-none.php:9
+msgid "There are no published articles yet."
+msgstr "Todavía no hay artículos publicados."
+
+#: template-parts/none/content-none.php:15
+msgid "We have not found results for your search"
+msgstr "No encontramos resultados para tu búsqueda"
+
+#: template-parts/none/content-none.php:27
+msgid "Other items that might interest you"
+msgstr "Otros artículos que podrían interesarte"
+
+#: updater/theme-updater-admin.php:172
+msgid ""
+"To activate the license, first enter it, then click <strong>Save changes</strong> and "
+"then click <strong>Activate license</strong>. If in doubt, we recommend <a href="
+"\"https://www.youtube.com/watch?v=AMjhRkmvSuk\" target=\"_blank\"> watch this short "
+"video</a>. If you have any problem, you can find us at soporte@asaptheme.com"
+msgstr ""
+"Para activar la licencia, primero introdúcela, luego haz clic en <strong>Guardar "
+"cambios</strong> y luego clic en <strong>Activar licencia</strong>. En caso de duda, te "
+"recomendamos <a href=\"https://www.youtube.com/watch?v=AMjhRkmvSuk\" target=\"_blank"
+"\">mirar este breve video</a>. Si tienes algún problema, puedes encontrarnos en "
+"soporte@asaptheme.com"
+
+#: updater/theme-updater-admin.php:293 updater/theme-updater-admin.php:401
+msgid "An error occurred, please try again."
+msgstr "Ha ocurrido un error, por favor intenta de nuevo."
+
+#: updater/theme-updater-admin.php:313
+#, php-format
+msgid "Your license key expired on %s."
+msgstr "Su clave de licencia expiró el %s."
+
+#: updater/theme-updater-admin.php:321
+msgid "License key disabled."
+msgstr "Clave de licencia deshabilitada."
+
+#: updater/theme-updater-admin.php:326
+msgid "Invalid license key."
+msgstr "Clave de licencia inválida."
+
+#: updater/theme-updater-admin.php:332
+msgid "Your license key is not active for this URL"
+msgstr "Su clave de licencia no está activa para esta URL"
+
+#: updater/theme-updater-admin.php:337
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr "Esta parece ser una clave de licencia no válida para %s."
+
+#: updater/theme-updater-admin.php:342
+msgid "Your license key has reached its activation limit."
+msgstr "Su clave de licencia ha alcanzado su límite de activación."
+
+#: updater/theme-updater-admin.php:347
+msgid "An error has occurred. Please try again."
+msgstr "Se ha producido un error. Inténtalo de nuevo."
+
+#: updater/theme-updater-admin.php:633
+msgid "Enter your license key to activate Asap Theme updates."
+msgstr "Ingresa tu clave de licencia para activar las actualizaciones de Asap Theme."
+
+#: updater/theme-updater-admin.php:634
+msgid "Complete the installation now"
+msgstr "Completa la instalación ahora"
+
+#: updater/theme-updater.php:31
+msgid "Asap Theme License"
+msgstr "Licencia Asap Theme"
+
+#: updater/theme-updater.php:32
+msgid "Enter your license key."
+msgstr "Ingresa tu clave de licencia."
+
+#: updater/theme-updater.php:33
+msgid "Licence key"
+msgstr "Clave de licencia"
+
+#: updater/theme-updater.php:34
+msgid "Action"
+msgstr "Acción"
+
+#: updater/theme-updater.php:35
+msgid "Deactivate license"
+msgstr "Desactivar licencia"
+
+#: updater/theme-updater.php:36
+msgid "Activate license"
+msgstr "Activar licencia"
+
+#: updater/theme-updater.php:37 updater/theme-updater.php:50
+msgid "Unknown license status."
+msgstr "Estado de licencia desconocida."
+
+#: updater/theme-updater.php:38
+msgid "Renovate?"
+msgstr "¿Renovar?"
+
+#: updater/theme-updater.php:39
+msgid "unlimited"
+msgstr "ilimitado"
+
+#: updater/theme-updater.php:40
+msgid "Active license key."
+msgstr "Clave de licencia activa."
+
+#: updater/theme-updater.php:41
+#, php-format
+msgid "Expires %s."
+msgstr "Caduca %s."
+
+#: updater/theme-updater.php:42
+msgid " "
+msgstr " "
+
+#: updater/theme-updater.php:43
+#, php-format
+msgid "Do you have %1$s / %2$s active sites."
+msgstr "Tienes %1$s / %2$s sitios activos."
+
+#: updater/theme-updater.php:44
+#, php-format
+msgid "License key expired %s."
+msgstr "La clave de licencia caducó %s."
+
+#: updater/theme-updater.php:45
+msgid "The license key has expired."
+msgstr "La clave de licencia ha caducado."
+
+#: updater/theme-updater.php:46
+msgid "Invalid license."
+msgstr "Licencia invalida."
+
+#: updater/theme-updater.php:47
+msgid "Inactive license."
+msgstr "Licencia inactiva."
+
+#: updater/theme-updater.php:48
+msgid "The license key is disabled."
+msgstr "La clave de licencia está deshabilitada."
+
+#: updater/theme-updater.php:49
+msgid "The license is inactive."
+msgstr "La licencia está inactiva."
+
+#: traduccion-manual-1
+msgid "Hide Go Up button"
+msgstr "Ocultar botón de Subir"
+
+#: traduccion-manual-2
+msgid "only home"
+msgstr "Solo página de inicio"
+
+#: traduccion-manual-3
+msgid "only categories"
+msgstr "Solo categorías"
+
+#: traduccion-manual-4
+msgid "All places"
+msgstr "Todas las ubicaciones"
+
+#: traduccion-manual-5
+msgid "Related posts title"
+msgstr "Título entradas relacionadas"
+
+#: traduccion-manual-6
+msgid "Activate rounded borders"
+msgstr "Activar bordes redondeados"
+
+#: traduccion-manual-7
+msgid "Footer code"
+msgstr "Código en Footer"
+
+#: traduccion-manual-8
+msgid "This code will be printed above the closing ‹/body› tag."
+msgstr "Este código se imprimirá encima de la etiqueta ‹/body› de cierre."
+
+#: traduccion-manual-9
+msgid "This code will be printed in the ‹head› section. Usage examples: Google Analytics, Search Console, Facebook Pixel"
+msgstr "Este código se imprimirá en la sección ‹head›. Ejemplos de uso: Google Analytics, Search Console, Facebook Pixel"
+
+#: traduccion-manual-10
+msgid "Contact URL"
+msgstr "Contacto URL"
+
+#: traduccion-manual-11
+msgid "Show only some categories"
+msgstr "Mostrar entradas de algunas categorías"
+
+#: traduccion-manual-12
+msgid "Put their IDs separated by commas. Example: 2, 5"
+msgstr "Coloca sus IDs separados por comas. Ej: 2, 5"
+
+#: traduccion-manual-13
+msgid "Header − Social networks"
+msgstr "Cabecera - Redes sociales"
+
+#: traduccion-manual-14
+msgid "Body code"
+msgstr "Código en Body"
+
+#: traduccion-manual-15
+msgid "This code will be printed just below the opening ‹body› tag."
+msgstr "Este código se imprimirá justo debajo de la etiqueta ‹body› de apertura."
+
+#: traduccion-manual-16
+msgid "Disable Table of Contents"
+msgstr "Desactivar índice de contenidos"
+
+#: traduccion-manual-17
+msgid "Delete WordPress version"
+msgstr "Ocultar versión de WordPress"
+
+#: traduccion-manual-18
+msgid "Delete WLW Link"
+msgstr "Eliminar enlace de WLW"
+
+#: traduccion-manual-19
+msgid "Delete RDS Link"
+msgstr "Eliminar enlace de RDS"
+
+#: traduccion-manual-21
+msgid "X-Content-Type-Options"
+msgstr "X-Content-Type-Options"
+
+#: traduccion-manual-22
+msgid "X-Frame-Options"
+msgstr "X-Frame-Options"
+
+#: traduccion-manual-23
+msgid "X-XXS-Protection"
+msgstr "X-XXS-Protection"
+
+#: traduccion-manual-24
+msgid "Strict-Transport-Security"
+msgstr "Strict-Transport-Security"
+
+#: traduccion-manual-25
+msgid "Referrer-Policy"
+msgstr "Referrer-Policy"
+
+#: traduccion-manual-26
+msgid "Permissions-Policy"
+msgstr "Permissions-Policy"
+
+#: traduccion-manual-26
+msgid "Security"
+msgstr "Seguridad"
+
+#: traduccion-manual-27
+msgid "Deactivate themes/plugins Editor"
+msgstr "Desactivar editor de temas/plugins"
+
+#: traduccion-manual-28
+msgid "Delete API REST Link"
+msgstr "Eliminar enlace API REST"
+
+
+#: traduccion-manual-29
+msgid "Disable related products"
+msgstr "Ocultar productos relacionados"
+
+#: traduccion-manual-30
+msgid "Disable savings percentage"
+msgstr "Ocultar porcentaje de ahorro"
+
+#: traduccion-manual-31
+msgid "Products by row Related Products"
+msgstr "Columnas productos relacionados"
+
+#: traduccion-manual-32
+msgid "Number of related products"
+msgstr "Cantidad de productos relacionados"
+
+#: traduccion-manual-33
+msgid "Disable Add to Cart Button"
+msgstr "Ocultar botón Añadir al carrito"
+
+#: traduccion-manual-34
+msgid "Disable header cart"
+msgstr "Ocultar botón Carrito en cabecera"
+
+#: traduccion-manual-35
+msgid "Disable header account"
+msgstr "Ocultar botón Mi cuenta en cabecera"
+
+#: traduccion-manual-36
+msgid "Disable Disable Additional Information tab"
+msgstr "Ocultar pestaña de Información adicional"
+
+#: traduccion-manual-37
+msgid "Add to cart Button text"
+msgstr "Texto botón Añadir al carrito"
+
+#: traduccion-manual-38
+msgid "WooCommerce container width"
+msgstr "Ancho contenedor WooCommerce"
+
+#: traduccion-manual-39
+msgid "Activate on products"
+msgstr "Activar en productos"
+
+#: traduccion-manual-40
+msgid "Show lastest posts"
+msgstr "Mostrar últimas entradas"
+
+#: traduccion-manual-41
+msgid "Show search engine in product list"
+msgstr "Mostrar buscador en lista de productos"
+
+#: traduccion-manual-42
+msgid "Remove WooCommerce dependencies outside their domains"
+msgstr "Eliminar las dependencias de WooCommerce fuera de sus dominios"
+
+
+#: traduccion-manual-43
+msgid "Footer background"
+msgstr "Fondo pie de página"
+
+#: traduccion-manual-44
+msgid "Footer links"
+msgstr "Enlaces pie de página"
+
+
+#: traduccion-manual-45
+msgid "Headers H3"
+msgstr "Encabezado H3"
+
+
+#: traduccion-manual-46
+msgid "Headers H4"
+msgstr "Encabezado H4"
+
+#: traduccion-manual-47
+msgid "Limit HeartBeat"
+msgstr "Limitar HeartBeat"
+
+
+#: traduccion-manual-48
+msgid "Disable Social Buttons"
+msgstr "Desactivar botones sociales"
+
+#: traduccion-manual-49
+msgid "Before the first heading"
+msgstr "Antes del primer encabezado"
+
+#: traduccion-manual-49
+msgid "Above"
+msgstr "Arriba"
+
+#: traduccion-manual-49
+msgid "Down"
+msgstr "Abajo"
+
+#: traduccion-manual-50
+msgid "Text Breadcrumb Pillar Page"
+msgstr "Texto migas de pan página pilar"
+
+#: traduccion-manual-51
+msgid "URL Breadcrumb Pillar Page"
+msgstr "URL migas de pan página pilar"
+
+#: traduccion-manual-52
+msgid "Speed up WordPress admin area"
+msgstr "Acelerar área de administración de WordPress"
+
+#: traduccion-manual-53
+msgid "Comment list title"
+msgstr "Título lista de comentarios"
+
+
+#: traduccion-manual-54
+msgid "Disable header"
+msgstr "Desactivar cabecera"
+
+#: traduccion-manual-55
+msgid "Disable footer"
+msgstr "Desactivar pie de página"
+
+
+#: traduccion-manual-56
+msgid "Optimize YouTube videos"
+msgstr "Cargar videos solo al cliquearlos"
+
+#: traduccion-manual-57
+msgid "Preload featured image"
+msgstr "Precargar imágenes destacadas"
+
+#: traduccion-manual-58
+msgid "Move Javascript to the footer"
+msgstr "Mover Javascript al pie de página"
+
+#: traduccion-manual-59
+msgid "Clean Youtube caché   "
+msgstr "Borrar Youtube caché   "
+
+#: traduccion-manual-60
+msgid "Enable smooth scrolling"
+msgstr "Activar scroll suave"
+
+#: traduccion-manual-61
+msgid "Enable maintenance mode"
+msgstr "Activar modo mantenimiento"
+
+#: traduccion-manual-62
+msgid "Maintenance mode Title"
+msgstr "Título modo mantenimiento"
+
+#: traduccion-manual-63
+msgid "Maintenance mode Description"
+msgstr "Descripción modo mantenimiento"
+
+#: traduccion-manual-64
+msgid "Disable jQuery"
+msgstr "Desactivar librería jQuery"
+
+#: traduccion-manual-65
+msgid "Featured message"
+msgstr "Mensaje aviso destacado"
+
+#: traduccion-manual-66
+msgid "Hide categories in breadcrumbs"
+msgstr "Ocultar categorías en migas de pan"
+
+#: traduccion-manual-67
+msgid "Featured advice background"
+msgstr "Fondo aviso destacado"
+
+#: traduccion-manual-68
+msgid "Featured advice text"
+msgstr "Texto aviso destacado"
+
+#: traduccion-manual-69
+msgid "Show first row as featured"
+msgstr "Activar diseño resaltado"
+
+
+#: traduccion-manual-71
+msgid "Header"
+msgstr "Cabecera (1)"
+
+#: traduccion-manual-72
+msgid "Before the content"
+msgstr "Antes del contenido (2)"
+
+#: traduccion-manual-73
+msgid "Half of the content"
+msgstr "Mitad del contenido (1)"
+
+#: traduccion-manual-74
+msgid "After the content"
+msgstr "Después del contenido (1)"
+
+#: traduccion-manual-75
+msgid "Inside the content"
+msgstr "Dentro del contenido (10)"
+
+#: traduccion-manual-76
+msgid "On sidebar"
+msgstr "Barra lateral (2)"
+
+#: traduccion-manual-77
+msgid "Loop"
+msgstr "Listados (5)"
+
+#: traduccion-manual-78
+msgid "Home page"
+msgstr "Página de inicio"
+
+#: traduccion-manual-79
+msgid "Show on posts"
+msgstr "Mostrar en entradas"
+
+#: traduccion-manual-80
+msgid "Show on pages"
+msgstr "Mostrar en páginas"
+
+#: traduccion-manual-81
+msgid "Show on home page"
+msgstr "Mostrar en página de inicio"
+
+#: traduccion-manual-82
+msgid "Show on categories"
+msgstr "Mostrar en categorías"
+
+#: traduccion-manual-83
+msgid "Advertising and Analytics Options"
+msgstr "Asap Theme − Publicidad y Analytics"
+
+	
+#: traduccion-manual-84
+msgid "General Settings"
+msgstr "Opciones generales"
+
+#: traduccion-manual-85
+msgid "Code in ‹head›"
+msgstr "Código dentro de ‹head›"
+
+#: traduccion-manual-86
+msgid "Code in ‹body›"
+msgstr "Código dentro de ‹body›"
+
+#: traduccion-manual-87
+msgid "Code before ‹/body›"
+msgstr "Código antes de ‹/body›"
+
+#: traduccion-manual-88
+msgid "Disable on pages"
+msgstr "Desactivar en páginas"
+
+#: traduccion-manual-89
+msgid "Disable on posts"
+msgstr "Desactivar en entradas"
+
+#: traduccion-manual-90
+msgid "Breadcrumbs"
+msgstr "Migas de pan"
+
+#: traduccion-manual-91
+msgid "Google Fonts"
+msgstr "Fuentes"
+
+#: traduccion-manual-92
+msgid "Host Google Fonts externally"
+msgstr "Cargar externamente"
+
+#: traduccion-manual-93
+msgid "Host Google Fonts locally"
+msgstr "Cargar localmente (Recomendado)"
+
+
+#: traduccion-manual-94
+msgid "Child pages"
+msgstr "Páginas hijas"
+
+#: traduccion-manual-95
+msgid "Page options"
+msgstr "Opciones de páginas"
+
+#: traduccion-manual-96
+msgid "Enable tags"
+msgstr "Habilitar etiquetas"
+
+#: traduccion-manual-97
+msgid "Remove Global Styles"
+msgstr "Remover estilos globales"
+
+#: traduccion-manual-98
+msgid "With this shortcode you can insert a cluster to display the child pages of the page you are editing."
+msgstr "Con este shortcode, puedes insertar un cluster para mostrar las páginas hijas de la página que está editando."
+
+
+#: traduccion-manual-100
+msgid "Show only entries in the same tag"
+msgstr "Mostrar solo entradas misma etiqueta"
+
+#: traduccion-manual-101
+msgid "Enable Advertising"
+msgstr "Activar publicidad"
+
+#: traduccion-manual-102
+msgid "Google Analytics and others"
+msgstr "Google Analytics y otros"
+
+#: traduccion-manual-103
+msgid "On loops"
+msgstr "Listados (5)"
+
+#: traduccion-manual-104
+msgid "Tags sidebar"
+msgstr "Barra lateral de etiquetas"
+
+#: traduccion-manual-105
+msgid "Show on tags"
+msgstr "Mostrar en etiquetas"
+
+#: traduccion-manual-106
+msgid "Show search engine at tags"
+msgstr "Mostrar buscador en etiquetas"
+
+#: traduccion-manual-107
+msgid "After row 1"
+msgstr "Después de fila 1"
+
+#: traduccion-manual-108
+msgid "After row 2"
+msgstr "Después de fila 2"
+
+#: traduccion-manual-109
+msgid "After row 3"
+msgstr "Después de fila 3"
+
+#: traduccion-manual-110
+msgid "After row 4"
+msgstr "Después de fila 4"
+
+#: traduccion-manual-111
+msgid "After row 5"
+msgstr "Después de fila 5"
+
+#: traduccion-manual-112
+msgid "After row 6"
+msgstr "Después de fila 6"
+
+#: traduccion-manual-113
+msgid "After row 7"
+msgstr "Después de fila 7"
+
+#: traduccion-manual-114
+msgid "After row 8"
+msgstr "Después de fila 8"
+
+#: traduccion-manual-115
+msgid "After row 9"
+msgstr "Después de fila 9"
+
+#: traduccion-manual-116
+msgid "After row 10"
+msgstr "Después de fila 10"
+
+#: traduccion-manual-117
+msgid "Results found for your search"
+msgstr "Resultados para tu búsqueda"
+
+#: traduccion-manual-118
+msgid "Show icon"
+msgstr "Mostrar ícono"
+
+#: traduccion-manual-119
+msgid "Show stars"
+msgstr "Mostrar estrellas"
+
+#: traduccion-manual-120
+msgid "Stars color"
+msgstr "Color estrellas"
+
+#: traduccion-manual-121
+msgid "Font size"
+msgstr "Tamaño texto"
+
+#: traduccion-manual-122
+msgid "After featured image"
+msgstr "Después de imagen destacada"
+
+#: traduccion-manual-123
+msgid "Before featured image"
+msgstr "Antes de imagen destacada"
+
+#: traduccion-manual-124
+msgid "Add your ad here"
+msgstr "Agrega tu anuncio aquí"
+
+
+#: traduccion-manual-125
+msgid "Show date"
+msgstr "Mostrar fecha"
+
+#: traduccion-manual-126
+msgid "Show URL in comments"
+msgstr "Mostrar campo URL en comentarios"
+
+
+#: traduccion-manual-126
+msgid "Remove links in comments"
+msgstr "Remover enlaces en comentarios"
+
+#: traduccion-manual-127
+msgid "License"
+msgstr "Licencia"
+
+#: traduccion-manual-128
+msgid "Active"
+msgstr "Activa"
+
+#: traduccion-manual-129
+msgid "Inactive"
+msgstr "Inactiva"
+
+#: traduccion-manual-130
+msgid "Exclude H3 tags"
+msgstr "Excluir encabezados H3"
+
+
+#: traduccion-manual-131
+msgid "Big"
+msgstr "Grande"
+
+#: traduccion-manual-132
+msgid "Small"
+msgstr "Pequeño"
+
+#: traduccion-manual-133
+msgid "Image Design"
+msgstr "Tamaño de imagen"
+
+#: traduccion-manual-134
+msgid "Show Featured Image Small"
+msgstr "Mostrar imagen destacada pequeña"
+
+#: traduccion-manual-135
+msgid "Show last paragraph dynamic"
+msgstr "Mostrar último párrafo dinámico"
+
+#: traduccion-manual-136
+msgid "Last dynamic paragraph"
+msgstr "Último párrafo dinámico"
+
+#: traduccion-manual-137
+msgid "%%title%% for title and %%category%% for category"
+msgstr "%%title%% para título y %%category%% para categoría"
+
+#: traduccion-manual-138
+msgid "Featured Text"
+msgstr "Mensaje aviso destacado"
+
+#: traduccion-manual-139
+msgid "Custom code in header"
+msgstr "Código personalizado en cabecera"
+
+#: traduccion-manual-140
+msgid "Custom code in footer"
+msgstr "Código personalizado en pie de página"
+
+#: traduccion-manual-141
+msgid "Load jQuery locally"
+msgstr "Cargar jQuery localmente"
+
+#: traduccion-manual-142
+msgid "Load jQuery from externally"
+msgstr "Cargar jQuery externamente"
+
+#: traduccion-manual-143
+msgid "Enable layout in lists"
+msgstr "Activar diseño en listas"
+
+#: traduccion-manual-144
+msgid "Hero background"
+msgstr "Fondo encabezado destacado"
+
+#: traduccion-manual-145
+msgid "Hero text"
+msgstr "Texto encabezado destacado"
+
+#: traduccion-manual-146
+msgid "Social buttons title"
+msgstr "Título botones sociales"
+
+#: traduccion-manual-147
+msgid "Header design"
+msgstr "Diseño encabezado"
+
+#: traduccion-manual-148
+msgid "Disable link in author"
+msgstr "Desactivar link hacia página de autor"
+
+
+#: traduccion-manual
+msgid "After item list  1"
+msgstr "Después lista ítem 1"
+
+#: traduccion-manual
+msgid "After item list  2"
+msgstr "Después lista ítem 2"
+
+#: traduccion-manual
+msgid "After item list  3"
+msgstr "Después lista ítem 3"
+
+#: traduccion-manual
+msgid "After item list  4"
+msgstr "Después lista ítem 4"
+
+#: traduccion-manual
+msgid "After item list  5"
+msgstr "Después lista ítem 5"
+
+#: traduccion-manual
+msgid "After item list  6"
+msgstr "Después lista ítem 6"
+
+#: traduccion-manual
+msgid "After item list  7"
+msgstr "Después lista ítem 7"
+
+#: traduccion-manual
+msgid "After item list  8"
+msgstr "Después lista ítem 8"
+
+#: traduccion-manual
+msgid "After item list  9"
+msgstr "Después lista ítem 9"
+
+#: traduccion-manual
+msgid "After item list  10"
+msgstr "Después lista ítem 10"
+
+#: traduccion-manual
+msgid "After item list  11"
+msgstr "Después lista ítem 11"
+
+#: traduccion-manual
+msgid "After item list  12"
+msgstr "Después lista ítem 12"
+
+#: traduccion-manual
+msgid "After item list  13"
+msgstr "Después lista ítem 13"
+
+#: traduccion-manual
+msgid "After item list  14"
+msgstr "Después lista ítem 14"
+
+#: traduccion-manual
+msgid "After item list  15"
+msgstr "Después lista ítem 15"
+
+#: traduccion-manual
+msgid "After item list  16"
+msgstr "Después lista ítem 16"
+
+#: traduccion-manual
+msgid "After item list  17"
+msgstr "Después lista ítem 17"
+
+#: traduccion-manual
+msgid "After item list  18"
+msgstr "Después lista ítem 18"
+
+#: traduccion-manual
+msgid "After item list  19"
+msgstr "Después lista ítem 19"
+
+#: traduccion-manual
+msgid "After item list  20"
+msgstr "Después lista ítem 20"
+
+
+#: traduccion-manual
+msgid "Home Loop Anchor Text"
+msgstr "Listados"
+
+#: traduccion-manual
+msgid "Sidebar Anchor Text"
+msgstr "Barra lateral"
+
+
+#: traduccion-manual
+msgid "Clúster Anchor Text"
+msgstr "Clústers"
+
+
+#: traduccion-manual
+msgid "Related Post Anchor Text"
+msgstr "Entradas relacionadas"
+
+#: traduccion-manual
+msgid "ASAP − Anchor text Options"
+msgstr "ASAP − Opciones de anchor text"
+
+#: traduccion-manual
+msgid "Disable dynamic paragraph"
+msgstr "Desactivar último párrafo dinámico"
+
+#: traduccion-manual
+msgid "Image"
+msgstr "Imágen"
+
+#: traduccion-manual
+msgid "Top"
+msgstr "Arriba"
+
+#: traduccion-manual
+msgid "Zoom on images"
+msgstr "Activar efecto zoom en imágenes"
+
+#: traduccion-manual
+msgid "Show first row featured"
+msgstr "Activar diseño resaltado"
+
+#: traduccion-manual
+msgid "Design"
+msgstr "Diseño"
+
+#: traduccion-manual
+msgid "Flat"
+msgstr "Plano"
+
+#: traduccion-manual
+msgid "Box"
+msgstr "Cajas"
+
+#: traduccion-manual
+msgid "Disable box design"
+msgstr "Desactivar diseño en cajas"
+
+#: traduccion-manual
+msgid "Columns featured posts"
+msgstr "Columnas diseño resaltado"
+
+#: traduccion-manual
+msgid "Columns related posts"
+msgstr "Columnas entradas relacionadas"
+
+#: traduccion-manual
+msgid "Activate Classic Editor on Widgets"
+msgstr "Activar Editor Clásico solo en Widgets"
+
+
+
+#: traduccion-manual
+msgid "After H2 number 1"
+msgstr "Después H2 número 1"
+
+#: traduccion-manual
+msgid "After H2 number 2"
+msgstr "Después H2 número 2"
+
+#: traduccion-manual
+msgid "After H2 number 3"
+msgstr "Después H2 número 3"
+
+#: traduccion-manual
+msgid "After H2 number 4"
+msgstr "Después H2 número 4"
+
+#: traduccion-manual
+msgid "After H2 number 5"
+msgstr "Después H2 número 5"
+
+#: traduccion-manual
+msgid "After H2 number 6"
+msgstr "Después H2 número 6"
+
+#: traduccion-manual
+msgid "After H2 number 7"
+msgstr "Después H2 número 7"
+
+#: traduccion-manual
+msgid "After H2 number 8"
+msgstr "Después H2 número 8"
+
+#: traduccion-manual
+msgid "After H2 number 9"
+msgstr "Después H2 número 9"
+
+#: traduccion-manual
+msgid "After H2 number 10"
+msgstr "Después H2 número 10"
+
+#: traduccion-manual
+msgid "After H3 number 1"
+msgstr "Después H3 número 1"
+
+#: traduccion-manual
+msgid "After H3 number 2"
+msgstr "Después H3 número 2"
+
+#: traduccion-manual
+msgid "After H3 number 3"
+msgstr "Después H3 número 3"
+
+#: traduccion-manual
+msgid "After H3 number 4"
+msgstr "Después H3 número 4"
+
+#: traduccion-manual
+msgid "After H3 number 5"
+msgstr "Después H3 número 5"
+
+#: traduccion-manual
+msgid "After H3 number 6"
+msgstr "Después H3 número 6"
+
+#: traduccion-manual
+msgid "After H3 number 7"
+msgstr "Después H3 número 7"
+
+#: traduccion-manual
+msgid "After H3 number 8"
+msgstr "Después H3 número 8"
+
+#: traduccion-manual
+msgid "After H3 number 9"
+msgstr "Después H3 número 9"
+
+#: traduccion-manual
+msgid "After H3 number 10"
+msgstr "Después H3 número 10"
+
+
+#: traduccion-manual
+msgid "Featured without search engine"
+msgstr "Destacado − Sin buscador"
+
+
+
+#: traduccion-manual
+msgid "Table"
+msgstr "Índice"
+
+#: traduccion-manual
+msgid "Structured data (Schema)"
+msgstr "Datos estructurados (Schema)"
+
+#: traduccion-manual
+msgid "Activate organization structured data"
+msgstr "Organización"
+
+#: traduccion-manual
+msgid "Activate article structured data"
+msgstr "Artículo"
+
+#: traduccion-manual
+msgid "Activate breadcrumbs structured data"
+msgstr "Migas de pan"
+
+#: traduccion-manual
+msgid "Activate search structured data"
+msgstr "Búsqueda"
+
+#: traduccion-manual
+msgid "Menu − Social networks"
+msgstr "Menu Móvil − Redes sociales"
+
+
+#: traduccion-manual
+msgid "Enable transitions"
+msgstr "Activar transiciones"
+
+#: traduccion-manual
+msgid "Rows featured posts"
+msgstr "Filas diseño resaltado"
+
+
+#: traduccion-manual
+msgid "Fix when scrolling on mobile"
+msgstr "Siempre visible en móviles"
+
+
+#: traduccion-manual
+msgid "Overlay over header"
+msgstr "Superponer sobre la cabecera"
+
+
+#: traduccion-manual
+msgid "Flat Gray Background"
+msgstr "Por defecto"
+
+
+#: traduccion-manual
+msgid "Flat Color Background"
+msgstr "Coloreado"
+
+
+#: traduccion-manual
+msgid "Shadow"
+msgstr "Sombreado"
+
+
+#: traduccion-manual
+msgid "Image location"
+msgstr "Ubicación imagen"
+
+#: traduccion-manual
+msgid "Activate float menu mobile icon"
+msgstr "Activar ícono móvil flotante"
+
+#: traduccion-manual
+msgid "Activate float menu mobile design"
+msgstr "Activar menú móvil flotante"
+
+#: traduccion-manual
+msgid "Show shadow above header"
+msgstr "Mostrar sombra en la cabecera"
+
+#: traduccion-manual
+msgid "Drop down to the right"
+msgstr "Mostrar desplegable hacia la derecha"
+
+#: traduccion-manual
+msgid "Show menu after logo"
+msgstr "Mostrar menú debajo del logo"
+
+
+#: traduccion-manual
+msgid "Top header background"
+msgstr "Fondo cabecera superior"
+
+
+#: traduccion-manual
+msgid "Header options"
+msgstr "Opciones de cabecera"
+
+#: traduccion-manual
+msgid "Anable lazy loading of videos"
+msgstr "Activar carga diferida de videos"
+
+#: traduccion-manual
+msgid "Anable lazy loading of images"
+msgstr "Activar carga diferida de imágenes"
+
+#: traduccion-manual
+msgid "Header design - Global"
+msgstr "Diseño encabezado − Opción global"
+
+#: traduccion-manual
+msgid "Category Header design"
+msgstr "Diseño encabezado − Categorías"
+
+#: traduccion-manual
+msgid "This global option can only be changed from the customizer options."
+msgstr "Esta opción global solo puede cambiarse desde las opciones del personalizador."
+
+
+
+#: updater/theme-updater.php:51
+msgid "Upgrading you will lose any customizations you have made. Press OK to continue."
+msgstr ""
+"Actualizando perderá personalizaciones que haya realizado. Presiona OK para continuar."
+
+#: updater/theme-updater.php:53
+#, php-format
+msgid ""
+"<strong>Asap Theme %2$s</strong> is it availabe. <a href=\"%5$s\"%6$s>Update now</a>."
+msgstr ""
+"<strong>Asap Theme %2$s</strong> está disponible. <a href=\"%5$s\"%6$s>Actualizar ahora</"
+"a>"
